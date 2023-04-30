@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "img":{
+            "src":"carousel-1.jpg",
+            "alt":"carousel-1"
+        },
+        "name":"Men Fashion",
+        "description":"Best Men fashion only at JFeetWheeps"
+    },
+    {
+        "id":2,
+        "img":{
+            "src":"carousel-2.jpg",
+            "alt":"carousel-2"
+        },
+        "name":"Women Fashion",
+        "description":"Best Women fashion only at JFeetWheeps"
+    },
+    {
+        "id":3,
+        "img":{
+            "src":"carousel-3.jpg",
+            "alt":"carousel-3"
+        },
+        "name":"Kids Fashion",
+        "description":"Best Kids fashion only at JFeetWheeps"
+    }
+]
